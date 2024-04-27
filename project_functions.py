@@ -10,6 +10,8 @@ def dataset_info(csv_path):
         print(df.columns)
         print("\nData types of features: \n")
         print(df.dtypes)
+        print(f"\nDescriptive Statistics:")
+        print(pd.DataFrame(df.describe()))
        
        
     except FileNotFoundError:
