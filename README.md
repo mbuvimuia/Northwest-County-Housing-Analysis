@@ -73,4 +73,4 @@ The statistically significant predictors in this model include:
 Despite its strengths, the model's high condition number (64000) suggests potential multicollinearity or numerical instability, which could affect the reliability of the results. Additionally, diagnostic tests indicate that the residuals might not be normally distributed, hinting at potential issues with model assumptions.
 
 ## Trello Link
-[text](https://trello.com/b/JTac8Mqq/phase-2-group-project)
+[Trello Board](https://trello.com/b/JTac8Mqq/phase-2-group-project)
