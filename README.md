@@ -31,11 +31,10 @@ The difficulties encountered by different parties in the volatile real estate ma
 
 ## Objectives
 
-1. To analyze the King County House Sales dataset to identify statistically significant features that impact house prices, by utilizing  techniques such as correlation analysis.
-1. To develop a simple linear regression model as the base model to predict house prices in northwestern county based on relevant features.
-1. To build a multiple linear regression model that predicts the target variable, price,  whose coefficients are easily interpretable
-1. To compare the performance of the multiple linear regression model with the simple linear model
-1. To evaluate the model's accuracy and performance of the linear regression model using appropriate metrics such as mean squared error (MSE) or R-squared.
+1. To analyze the King County House Sales dataset to identify statistically significant features that impact house prices, by utilizing techniques such as correlation analysis.
+2. To build a multiple linear regression models that predict the target variable, price, whose coefficients are easily interpretable
+3. To evaluate the model's accuracy and performance of the linear regression model using appropriate metrics such as mean squared error (MSE) or R-squared.
+
 
 ## Source of Data
 
